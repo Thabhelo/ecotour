@@ -321,10 +321,11 @@ function MainComponent() {
         );
       default:
         return (
+
           <>
             <div className="relative h-[600px]">
               <img
-                src="victoria-falls.jpg"
+                src="./images/victoria-falls.jpg alt="victoria Falls" />
                 alt="Majestic Victoria Falls with rainbow and lush vegetation"
                 className="w-full h-full object-cover"
               />
