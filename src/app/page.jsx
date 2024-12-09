@@ -325,7 +325,7 @@ function MainComponent() {
           <>
             <div className="relative h-[600px]">
               <img
-                src="./images/victoria-falls.jpg alt="victoria Falls" />
+                src="./images/victoria-falls.jpg" alt="victoria Falls"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col items-center justify-center text-white px-4">
